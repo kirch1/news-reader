@@ -1,4 +1,5 @@
 import { SingleArticle } from '../../interfaces';
+import { ArticleMini } from './ArticleMini';
 import './ArticleSelector.css';
 
 interface ArticleSelectorProps {
@@ -6,7 +7,13 @@ interface ArticleSelectorProps {
 }
 
 export const ArticleSelector = ({articles}: ArticleSelectorProps) => {
+  const getMiniSelectors = () => {
+    return articles.map(article => <ArticleMini title={article.title} image={article.urlToImage}/>)
+  }
+
   return (
-    <section></section>
+    <div className='articles-selector'>
+      {getMiniSelectors()}
+    </div>
   )
 }

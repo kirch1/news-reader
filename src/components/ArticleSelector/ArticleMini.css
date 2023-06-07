@@ -1,11 +1,21 @@
-.article-parent {
-  width: 18rem;
-  height: 10rem;
+.mini-parent {
+  display: flex;
+  width: 22rem;
+  height: 6rem;
+  gap: 1rem;
   background-color: #1C1C1E;
   border-radius: 0.5rem;
   padding: 1rem;
+  flex-shrink: 0;
 }
 
-h2 {
+.mini-title {
+  padding: 0;
   margin: 0;
+  font-size: 1rem;
+}
+
+.mini-thumbnail {
+  max-width: 100%;
+  border-radius: 4px;
 }

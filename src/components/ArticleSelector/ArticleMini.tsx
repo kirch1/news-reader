@@ -1,9 +1,14 @@
 import './ArticleMini.css'
 
-export const ArticleMini = () => {
+interface ArticleMiniProps {
+  title: string;
+  image: string;
+}
+export const ArticleMini = ({title, image} : ArticleMiniProps) => {
   return(
-    <div className="article-parent">
-      <h2>Title</h2>
+    <div className="mini-parent">
+      <img className='mini-thumbnail' src={image} alt={title} />
+      <p className='mini-title'>{title}</p>
     </div>
   )
 }
