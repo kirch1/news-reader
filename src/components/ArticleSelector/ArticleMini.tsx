@@ -1,6 +1,6 @@
-import './Article.css'
+import './ArticleMini.css'
 
-export const Article = () => {
+export const ArticleMini = () => {
   return(
     <div className="article-parent">
       <h2>Title</h2>
