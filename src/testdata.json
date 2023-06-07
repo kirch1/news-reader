@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 4215,
+  "totalResults": 2192,
   "articles": [
       {
           "source": {
@@ -915,188 +915,6 @@
       {
           "source": {
               "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Luis Miranda",
-          "title": "El nuevo Mac Pro con M2 Ultra marca el fin de la era Intel",
-          "description": "El anuncio del Mac Pro con M2 Ultra ha sido uno de los más sorprendentes de la WWDC. Tras el éxito cosechado con el Mac Studio, los de Cupertino han recuperado el terreno perdido en el campo profesional. De igual modo, la actualización del potente ordenador d…",
-          "url": "http://hipertextual.com/2023/06/nuevo-mac-pro-apple-dice-adios-intel",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/Apple-WWDC23-Mac-Family-Apple-Silicon-230605.jpg",
-          "publishedAt": "2023-06-06T01:31:37Z",
-          "content": "El anuncio del Mac Pro con M2 Ultra ha sido uno de los más sorprendentes de la WWDC. Tras el éxito cosechado con el Mac Studio, los de Cupertino han recuperado el terreno perdido en el campo profesio… [+3453 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Tomás Rivero",
-          "title": "Cómo descargar iOS 17, iPadOS 17, watchOS 10 y macOS Sonoma",
-          "description": "Tras mucho esperar, Apple finalmente ha celebrado su WWDC 2023, lugar donde han presentado todas las novedades de software que estarán por llegar próximamente. Si quieres saber cómo probar desde ya mismo las versiones beta de iOS 17, iPadOS 17, watchOS 10 y m…",
-          "url": "http://hipertextual.com/2023/06/como-descargar-ios-17-ipados-17-watchos-10-macos-sonoma",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/03/ios-17.jpg",
-          "publishedAt": "2023-06-06T08:30:04Z",
-          "content": "Tras mucho esperar, Apple finalmente ha celebrado su WWDC 2023, lugar donde han presentado todas las novedades de software que estarán por llegar próximamente. Si quieres saber cómo probar desde ya m… [+4046 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Nolan Rada Galindo",
-          "title": "El creador de ‘Black Mirror’ usó ChatGPT para escribir un guion y el resultado fue lamentable",
-          "description": "La franquicia Black Mirror es reconocida por recrear, a través de sus temporadas, escenarios críticos en relación con la sociedad contemporánea y la tecnología. Con base en estos aspectos, los capítulos de cada entrega sirven como disparadores para tocar múlt…",
-          "url": "http://hipertextual.com/2023/06/charlie-brooker-chatgpt-black-mirror-guion-reaccion",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/05/Black-Mirror-sexta-temporada-scaled.jpeg",
-          "publishedAt": "2023-06-06T17:13:44Z",
-          "content": "La franquicia Black Mirror es reconocida por recrear, a través de sus temporadas, escenarios críticos en relación con la sociedad contemporánea y la tecnología. Con base en estos aspectos, los capítu… [+3410 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Ebenizer Pinedo",
-          "title": "Apple compra Mira, una empresa especializada en realidad aumentada, para impulsar el Apple Vision Pro",
-          "description": "Como parte de sus esfuerzos para seguir desarrollando el recién presentado Apple Vision Pro, los de Cupertino compraron Mira, una startup estadounidense especializada en hardware de realidad aumentada. Aunque esta importante adquisición no fue anunciada duran…",
-          "url": "http://hipertextual.com/2023/06/apple-compra-mira-realidad-aumentada",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/apple-compra-mira.jpg",
-          "publishedAt": "2023-06-06T19:33:50Z",
-          "content": "Como parte de sus esfuerzos para seguir desarrollando el recién presentadoApple Vision Pro, los de Cupertino compraron Mira, una startup estadounidense especializada en hardware de realidad aumentada… [+3296 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Rubén Chicharro",
-          "title": "10 cosas de las Apple Vision Pro que Apple no mostró en la presentación",
-          "description": "Las Apple Vision Pro son, sin duda, uno de los productos más revolucionarios del mercado por sus prestaciones tan diferentes a cualquier otro visor de realidad virtual y realidad aumentada. Apple las anunció oficialmente durante la WWDC de 2023, donde mostrar…",
-          "url": "http://hipertextual.com/2023/06/apple-vision-pro-10-cosas-que-apple-no-mostro-en-la-presentacion",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/DSC06380-scaled.jpg",
-          "publishedAt": "2023-06-06T14:56:26Z",
-          "content": "Las Apple Vision Pro son, sin duda, uno de los productos más revolucionarios del mercado por sus prestaciones tan diferentes a cualquier otro visor de realidad virtual y realidad aumentada. Apple las… [+4395 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Gabriel Erard",
-          "title": "¿Son las Apple Vision Pro compatibles con gafas graduadas?",
-          "description": "Las Apple Vision Pro están en boca de todos tras su presentación en la keynote inaugural de la WWDC 2023. Las gafas de realidad aumentada de los californianos llegarán al mercado recién a comienzos del próximo año y costarán nada menos que 3.499 dólares. Adem…",
-          "url": "http://hipertextual.com/2023/06/apple-vision-pro-gafas-graduadas",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/DSC06392-scaled.jpg",
-          "publishedAt": "2023-06-06T12:44:25Z",
-          "content": "Las Apple Vision Pro están en boca de todos tras su presentación en la keynote inaugural de la WWDC 2023. Las gafas de realidad aumentada de los californianos llegarán al mercado recién a comienzos d… [+3227 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Ebenizer Pinedo",
-          "title": "Las betas de Apple para desarrolladores ahora son completamente gratuitas",
-          "description": "Anteriormente, si querías descargar la versión beta para desarrollares de un determinado software de Apple, sí o sí debías pertenecer al Developer Program, el cual tiene un costo de $99 dólares al año. Sin embargo, con la llegada de iOS 17, iPadOS 17, WatchOS…",
-          "url": "http://hipertextual.com/2023/06/apple-beta-desarrolladores-ahora-son-completamente-gratuitas",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/apple-developer.jpeg",
-          "publishedAt": "2023-06-06T21:56:49Z",
-          "content": "Anteriormente, si querías descargar la versión beta para desarrollares de un determinado software de Apple, sí o sí debías pertenecer al Developer Program, el cual tiene un costo de $99 dólares al añ… [+2928 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Gabriel Erard",
-          "title": "Apple nunca habló de ‘VR’ o ‘realidad mixta’. Así es como quiere definir las Vision Pro",
-          "description": "El anuncio de las Apple Vision Pro sigue dando de qué hablar, y existen motivos de sobra para ello. Entre los puntos más curiosos de su lanzamiento es que Apple ha evitado referirse a ellas estrictamente como un producto de realidad virtual o realidad aumenta…",
-          "url": "http://hipertextual.com/2023/06/apple-vision-pro-computacion-espacial",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/Apple-WWCD23-Vision-Pro-lifestyle-with-battery-FaceTime-230605-1.jpg",
-          "publishedAt": "2023-06-06T16:31:48Z",
-          "content": "El anuncio de las Apple Vision Pro sigue dando de qué hablar, y existen motivos de sobra para ello. Entre los puntos más curiosos de su lanzamiento es que Apple ha evitado referirse a ellas estrictam… [+5852 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Alberto Martín",
-          "title": "Si tienes uno de estos modelo de iPhone o iPad, malas noticias: no podrás instalar iOS 17",
-          "description": "iOS 17 ya es oficial. Y aunque todavía quedan algunos meses por delante hasta que estén disponibles para todos, ya puedes instalar la beta para desarrolladores. Como viene siendo habitual, junto con todas las novedades, Apple también ha anunciado los disposit…",
-          "url": "http://hipertextual.com/2023/06/dispositivos-compatibles-con-ios-17",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/namedrop-ios-17.jpeg",
-          "publishedAt": "2023-06-06T14:02:32Z",
-          "content": "iOS 17 ya es oficial. Y aunque todavía quedan algunos meses por delante hasta que estén disponibles para todos, ya puedes instalar la beta para desarrolladores. Como viene siendo habitual, junto con … [+3197 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Ebenizer Pinedo",
-          "title": "El Apple Vision Pro es capaz de capturar vídeos y fotos en 3D",
-          "description": "Tras la presentación oficial del Apple Vision Pro en la WWDC 2023, empiezan a surgir otros interesantes detalles sobre el próximo gran producto de la compañía; aquel que podría tomar el relevo del iPhone en el futuro. Ahora también sabemos que las cámaras y s…",
-          "url": "http://hipertextual.com/2023/06/apple-vision-pro-capturar-videos-fotos-3d",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/apple-vision-pro.jpg",
-          "publishedAt": "2023-06-06T18:39:38Z",
-          "content": "Tras la presentación oficial del Apple Vision Pro en la WWDC 2023, empiezan a surgir otros interesantes detalles sobre el próximo gran producto de la compañía; aquel que podría tomar el relevo del iP… [+3210 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Luis Miranda",
-          "title": "Apple muestra un emulador que puede ejecutar juegos de Windows en las Mac",
-          "description": "Apple nunca se ha caracterizado por ser una empresa que apueste en los videojuegos. Pese a que Steve Jobs presentó en su momento títulos del calibre de Doom 3 y Halo, la Mac está al final en la lista de plataformas para los desarrolladores. Eso podría cambiar…",
-          "url": "http://hipertextual.com/2023/06/apple-mac-emulador-directx-12-juegos-windows",
-          "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/games-mac.jpg?fit=1900%2C1072&quality=50&strip=all&ssl=1",
-          "publishedAt": "2023-06-06T23:05:00Z",
-          "content": "Apple nunca se ha caracterizado por ser una empresa que apueste en los videojuegos. Pese a que Steve Jobs presentó en su momento títulos del calibre de Doom 3 y Halo, la Mac está al final en la lista… [+3439 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Rubén Chicharro",
-          "title": "9 novedades de iOS 17 que Apple no mostró en la presentación",
-          "description": "iOS 17, la que será la nueva versión del sistema operativo para el iPhone, ya es oficial. Apple anunció durante la WWDC de 2023 las principales características de esta actualización, que llega con más opciones de personalización, una nueva forma de compartir …",
-          "url": "http://hipertextual.com/2023/06/9-novedades-de-ios-17-que-apple-no-mostro-en-la-presentacion",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/apple-ios-17-scaled.jpg",
-          "publishedAt": "2023-06-06T09:42:10Z",
-          "content": "iOS 17, la que será la nueva versión del sistema operativo para el iPhone, ya es oficial. Apple anunció durante la WWDC de 2023 las principales características de esta actualización, que llega con má… [+4781 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Tomás Rivero",
-          "title": "iOS 17: así puedes compartir la ubicación de tus AirTags con hasta cinco personas",
-          "description": "Hasta ahora, el uso de los AirTags de Apple era algo privado e individual. Solo el dueño de la etiqueta inteligente podía ver su ubicación desde su iPhone, iPad o Mac. No obstante, con la presentación de iOS 17 en la WWDC 2023, los de Cupertino han anunciado …",
-          "url": "http://hipertextual.com/2023/06/ios-17-asi-puedes-compartir-ubicacion-airtags-hasta-cinco-personas",
-          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/iOS-17-WWDC-2023.jpg",
-          "publishedAt": "2023-06-06T11:52:01Z",
-          "content": "Hasta ahora, el uso de los AirTags de Apple era algo privado e individual. Solo el dueño de la etiqueta inteligente podía ver su ubicación desde su iPhone, iPad o Mac. No obstante, con la presentació… [+3458 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Hipertextual"
-          },
-          "author": "Tomás Rivero",
-          "title": "Descarga los nuevos wallpapers de iOS 17, iPadOS 17 y macOS Sonoma",
-          "description": "Con cada actualización importante de sus sistemas operativos móviles y de escritorio, Apple lanza nuevas colecciones de fondos de pantalla para definir su nueva generación de software. Aunque iOS 17, iPadOS 17 y macOS Sonoma no se han lanzado oficialmente, lo…",
-          "url": "http://hipertextual.com/2023/06/descarga-nuevos-wallpapers-ios-17-ipados-17-macos-sonoma",
-          "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/macos-sonoma.jpg?fit=2500%2C1607&quality=50&strip=all&ssl=1",
-          "publishedAt": "2023-06-06T17:31:00Z",
-          "content": "Con cada actualización importante de sus sistemas operativos móviles y de escritorio, Apple lanza nuevas colecciones de fondos de pantalla para definir su nueva generación de software. Aunque iOS 17,… [+2663 chars]"
-      },
-      {
-          "source": {
-              "id": null,
               "name": "Intheknow.com"
           },
           "author": "Cassie Morris",
@@ -1119,84 +937,6 @@
           "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/Screen-Shot-2022-12-13-at-10.46.27-PM.png?fit=1200%2C874&ssl=1",
           "publishedAt": "2023-06-06T15:57:58Z",
           "content": "Yes, you can manually turn off the iOS autocorrect feature that annoyingly changes \"fuck\" to \"duck\" but now you won't have to bother. \r\n\"In those moments where you just want to type a ducking word, w… [+766 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Javier Lacort",
-          "title": "Apple no pronunció 'Inteligencia Artificial' ni una vez en la presentación de las Vision Pro. Creemos saber por qué",
-          "description": "Dos horas y cinco minutos duró la keynote que inauguró la WWDC 2023 de Apple. En cero ocasiones se escuchó \"Inteligencia Artificial\" de la boca de Tim Cook, Craig Federighi ni ningún otro empleado de Apple de los que participaron en el evento. Justo en el mom…",
-          "url": "https://www.xataka.com/realidad-virtual-aumentada/apple-no-pronuncio-inteligencia-artificial-vez-presentacion-vision-pro-creemos-saber-que",
-          "urlToImage": "https://i.blogs.es/fc62e3/cleanshot-2023-06-06-at-12.56.49-2x/840_560.jpeg",
-          "publishedAt": "2023-06-06T11:31:18Z",
-          "content": "Dos horas y cinco minutos duró la keynote que inauguró la WWDC 2023 de Apple. En cero ocasiones se escuchó \"Inteligencia Artificial\" de la boca de Tim Cook, Craig Federighi ni ningún otro empleado de… [+3843 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Javier Lacort",
-          "title": "Los auténticos ganadores de la WWDC son los fabricantes de accesorios para iPhone",
-          "description": "Kent Brockman dijo que los auténticos ganadores de la partida de tenis en casa de los Simpson eran los aperitivos de Marge, y desde Xataka vemos meridiano que los vencedores de la keynote de la WWDC 2023 van a ser los fabricantes de accesorios para iPhone.\n<!…",
-          "url": "https://www.xataka.com/perifericos/autenticos-ganadores-wwdc-fabricantes-accesorios-para-iphone",
-          "urlToImage": "https://i.blogs.es/043818/wwdc-iphone-standby/840_560.jpeg",
-          "publishedAt": "2023-06-06T10:01:18Z",
-          "content": "Kent Brockman dijo que los auténticos ganadores de la partida de tenis en casa de los Simpson eran los aperitivos de Marge, y desde Xataka vemos meridiano que los vencedores de la keynote de la WWDC … [+2567 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Javier Marquez",
-          "title": "Por qué Unity Technologies se ha convertido en la gran ganadora tras el anuncio de las Apple Vision Pro",
-          "description": "Esta semana asistimos virtualmente a la presentación del que puede ser uno de los productos más importantes de Apple en años (con el paso del tiempo veremos si finalmente esto es así). Estamos hablando de las Vision Pro, unas gafas de realidad mixta que llega…",
-          "url": "https://www.xataka.com/realidad-virtual-aumentada/que-unity-technologies-se-ha-convertido-gran-ganadora-anuncio-apple-vision-pro",
-          "urlToImage": "https://i.blogs.es/f06e93/apple-vision-pro-unity-14/840_560.jpeg",
-          "publishedAt": "2023-06-06T21:33:17Z",
-          "content": "Esta semana asistimos virtualmente a la presentación del que puede ser uno de los productos más importantes de Apple en años (con el paso del tiempo veremos si finalmente esto es así). Estamos hablan… [+3433 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Ricardo Aguilar",
-          "title": "Probamos iOS 17: el sistema del iPhone empieza a tocar techo. Y esto no es algo necesariamente negativo",
-          "description": "Ayer fue una jornada más que intensa a raíz de la WWDC de Apple. Apple presentó las Vision Pro, sus primeras gafas de realidad mixta. Junto a ellas, llegaron los MacBook Air con procesador M2, el M2 Ultra, así como las renovaciones en software: iPadOS 17, tvO…",
-          "url": "https://www.xataka.com/analisis/probamos-ios-17-sistema-iphone-empieza-a-tocar-techo-esto-no-algo-necesariamente-negativo",
-          "urlToImage": "https://i.blogs.es/5b870f/captura-de-pantalla-2023-06-06-a-las-13.30.31-p.-m./840_560.jpeg",
-          "publishedAt": "2023-06-06T12:01:20Z",
-          "content": "Ayer fue una jornada más que intensa a raíz de la WWDC de Apple. Apple presentó las Vision Pro, sus primeras gafas de realidad mixta. Junto a ellas, llegaron los MacBook Air con procesador M2, el M2 … [+7219 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Javier Lacort",
-          "title": "Las Apple Vision Pro son el Tesla Roadster. Va a hacer falta tiempo para que llegue nuestro Model 3",
-          "description": "Apple suele caminar despacio. No se deja llevar por el hype porque prefiere imponer el suyo. En estos años no ha lanzado teléfonos plegables ni ha preparado nada para el metaverso. Ni siquiera en la presentación de ayer dijo las palabras \"Inteligencia Artific…",
-          "url": "https://www.xataka.com/realidad-virtual-aumentada/apple-vision-pro-tesla-roadster-va-a-hacer-falta-tiempo-llegue-nuestro-model-3",
-          "urlToImage": "https://i.blogs.es/b7f778/roadster/840_560.jpeg",
-          "publishedAt": "2023-06-06T07:31:18Z",
-          "content": "Apple suele caminar despacio. No se deja llevar por el hype porque prefiere imponer el suyo. En estos años no ha lanzado teléfonos plegables ni ha preparado nada para el metaverso. Ni siquiera en la … [+3924 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Xataka.com"
-          },
-          "author": "Manu García (Visnuh)",
-          "title": "Ahorra hasta un 40% en tu cuota alquilando tecnología en la Semana de la Suerte de Grover",
-          "description": "Si eres más de alquilar que de comprar, o eres de los que prefieren estar siempre a la última en tecnología, sin atarte demasiado tiempo al mismo dispositivo y además, tu conciencia te dicta que siempre es mejor que los gadgets que dejas atrás tengan una buen…",
-          "url": "https://www.xataka.com/seleccion/ahorra-40-tu-cuota-alquilando-tecnologia-semana-suerte-grover",
-          "urlToImage": "https://i.blogs.es/f6d433/grover/840_560.jpeg",
-          "publishedAt": "2023-06-06T08:01:18Z",
-          "content": "Si eres más de alquilar que de comprar, o eres de los que prefieren estar siempre a la última en tecnología, sin atarte demasiado tiempo al mismo dispositivo y además, tu conciencia te dicta que siem… [+6194 chars]"
       },
       {
           "source": {
@@ -1301,6 +1041,266 @@
           "urlToImage": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
           "publishedAt": "2023-06-06T13:46:13Z",
           "content": "Upgrade your Asahi Linux systems, because your\r\ngraphics drivers are getting a big boost: leapfrogging from OpenGL 2.1 over\r\nOpenGL 3.0 up to OpenGL 3.1! Similarly, the OpenGL ES 2.0 support is bumpi… [+10521 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Github.com"
+          },
+          "author": "apple",
+          "title": "Swift Ownership Manifesto",
+          "description": "The Swift Programming Language. Contribute to apple/swift development by creating an account on GitHub.",
+          "url": "https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md",
+          "urlToImage": "https://opengraph.githubassets.com/fd370ced8181202ec65af665aebb4a03087cbfdb5eeee549adeb7123762f60b3/apple/swift",
+          "publishedAt": "2023-06-06T21:12:03Z",
+          "content": "Introduction\r\nAdding \"ownership\" to Swift is a major feature with many benefits\r\nfor programmers. This document is both a \"manifesto\" and a\r\n\"meta-proposal\" for ownership: it lays out the basic goals… [+69381 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Github.com"
+          },
+          "author": "apple",
+          "title": "Function Back Deployment",
+          "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. - swift-evolution/0376-function-back-deployment.md at main · apple/swift-evolution",
+          "url": "https://github.com/apple/swift-evolution/blob/main/proposals/0376-function-back-deployment.md",
+          "urlToImage": "https://opengraph.githubassets.com/88b7c85b49e1084f5f6b77b8eea40af56c2ae0d067beb2f9f220fa0e3d63a7c0/apple/swift-evolution",
+          "publishedAt": "2023-06-06T18:14:44Z",
+          "content": "Introduction\r\nResilient Swift libraries, such as the ones present in the SDKs for Apple's platforms, are distributed as dynamic libraries. Authors of these libraries use @available annotations to ind… [+13023 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Apple Newsroom"
+          },
+          "author": null,
+          "title": "Apple releasing segmentation/pose for humans and animals, embedding for 27 lang",
+          "description": "Bring the power of machine learning to your app.",
+          "url": "https://developer.apple.com/wwdc23/topics/ml-vision/",
+          "urlToImage": "https://developer.apple.com/wwdc23/topics/images/og/ml-vision-og.png",
+          "publishedAt": "2023-06-06T06:42:31Z",
+          "content": "Q&amp;A: Machine learning open forum\r\nThursday @ 10:00 - 11:00 a.m.Join us for an open forum to discuss anything related to machine learning in your app during this 1 hour text-based Q&amp;A. Topics … [+230 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Apple Newsroom"
+          },
+          "author": null,
+          "title": "Passkeys now support external providers",
+          "description": "Passkeys are easier to use than passwords and far more secure. Adopt passkeys to give people a simple, secure way to sign in to your apps and websites across platforms — with no passwords required.",
+          "url": "https://developer.apple.com/passkeys/",
+          "urlToImage": "https://developer.apple.com/news/images/og/passkeys-og.jpg",
+          "publishedAt": "2023-06-06T07:29:19Z",
+          "content": "Next-generation account security\r\nBased on FIDO Alliance and W3C standards, passkeys replace passwords with cryptographic key pairs. These key pairs profoundly improve security.\r\nStrong credentials. … [+553 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Ben Lovejoy",
+          "title": "Craig Federighi on new Apple privacy features; how Apple will protect us from AI",
+          "description": "Apple software lead Craig Federighi has talked about the new privacy features announced in yesterday’s keynote, and how Apple intends to protect us from some of the threats presented by AI.\nAs part of this, he says, Apple will use AI to fight one of the dange…",
+          "url": "https://9to5mac.com/2023/06/06/new-apple-privacy-features-ai-threats/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T12:48:24Z",
+          "content": "Apple software lead Craig Federighi has talked about the new privacy features announced in yesterday’s keynote, and how Apple intends to protect us from some of the threats presented by AI.\r\nAs part … [+4176 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Filipe Espósito",
+          "title": "Here are the winners of the 2023 Apple Design Awards",
+          "description": "Every year, Apple nominates multiple apps available in the App Store to compete for the Apple Design Awards at WWDC. Following the keynote this morning, the company has now announced the winners of the 2023 Apple Design Awards, “celebrating 12 best-in-class a…",
+          "url": "https://9to5mac.com/2023/06/05/winners-2023-apple-design-awards/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Apple-WWDC23-Design-Awards-trophy-230605_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T04:25:56Z",
+          "content": "Every year, Apple nominates multiple apps available in the App Store to compete for the Apple Design Awards at WWDC. Following the keynote this morning, the company has now announced the winners of t… [+1019 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Michael Potuck",
+          "title": "Apple makes iOS 17 developer beta free for everyone",
+          "description": "For years, access to the iOS developer beta and other developer builds has only been available through a $99/year developer account. Shaking things up this year and increasing access in a big way, Apple has just made the iOS 17 developer beta and other betas …",
+          "url": "https://9to5mac.com/2023/06/06/apple-makes-ios-17-developer-beta-free/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/iOS-17-hero-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T20:16:53Z",
+          "content": "For years, access to the iOS developer beta and other developer builds has only been available through a $99/year developer account. Shaking things up this year and increasing access in a big way, Ap… [+1300 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Ben Lovejoy",
+          "title": "WWDC 2023 keynote and product photos shared by Apple",
+          "description": "In addition to attempting to summarise each of the WWDC 2023 keynote announcements in just one paragraph each, Apple has also shared photos of both the event itself, and the new products announced.\nThis was the biggest WWDC keynote the company has ever held. …",
+          "url": "https://9to5mac.com/2023/06/06/wwdc-2023-keynote-photos/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/WWDC-2023-keynote-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T11:32:34Z",
+          "content": "In addition to attempting to summarise each of the WWDC 2023 keynote announcements in just one paragraph each, Apple has also shared photos of both the event itself, and the new products announced.\r\n… [+1032 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Ben Lovejoy",
+          "title": "Everything announced at WWDC 2023, as summed up by Apple",
+          "description": "That was quite the keynote! While Vision Pro of course took the headlines, the company packed in a huge number of announcements. So much so that even Apple thinks we need a summary of everything announced at WWDC 2023.\nThe company has provided its own take on…",
+          "url": "https://9to5mac.com/2023/06/06/everything-announced-at-wwdc-2023/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Everything-announced-at-WWDC-2023.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T11:14:30Z",
+          "content": "That was quite the keynote! While Vision Pro of course took the headlines, the company packed in a huge number of announcements. So much so that even Apple thinks we need a summary of everything anno… [+5598 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Ben Lovejoy",
+          "title": "Apple Vision Pro looks insanely impressive – but my Vision Air 2 guess still feels right",
+          "description": "Apple’s Reality\r\n Vision Pro was in some ways one of the company’s worst-kept secrets. We’ve known for years that Apple was working on AR/VR devices, and our renders were close enough to give us a decent preview of the design.\nBut Apple still knocked it out o…",
+          "url": "https://9to5mac.com/2023/06/06/apple-vision-pro-first-impressions/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-2.30.55-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T14:35:30Z",
+          "content": "Apple’s Reality\r\n Vision Pro was in some ways one of the company’s worst-kept secrets. We’ve known for years that Apple was working on AR/VR devices, and our renders were close enough to give us a de… [+7359 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Chance Miller",
+          "title": "Vision Pro: I just tried Apple’s first spatial computer, and here’s what I think",
+          "description": "At WWDC 2023, Apple officially unveiled its new Vision Pro headset, which it describes as a “revolutionary spatial computer.” I was in the crowd at today’s keynote when it was announced, and shortly thereafter, I was whisked away on a golf cart to go try out …",
+          "url": "https://9to5mac.com/2023/06/05/hands-on-apple-vision-pro-mixed-reality-headset/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/CleanShot-2023-06-05-at-18.00.21@2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T01:16:37Z",
+          "content": "At WWDC 2023, Apple officially unveiled its new Vision Pro headset, which it describes as a “revolutionary spatial computer.” I was in the crowd at today’s keynote when it was announced, and shortly … [+13266 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Rikka Altland",
+          "title": "Deals: Apple Watch SE 2 all-time lows from $219, OtterBox 20% off sale, Logitech Mac gear, more",
+          "description": "Tuesday has a fresh batch of Apple deals courtesy of our friends at 9to5Toys. After seeing the new 15-inch M2 MacBook Air , all-time lows are returning on Apple Watch SE 2 models from $219. That’s alongside a WWDC sale from OtterBox that takes 20% off popular…",
+          "url": "https://9to5mac.com/2023/06/06/deals-apple-watch-se-2-all-time-lows-more/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/apple-watch-se-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T15:49:10Z",
+          "content": "Tuesday has a fresh batch of Apple deals courtesy of our friends at 9to5Toys. After seeing the new 15-inch M2 MacBook Air go up for pre-order, all-time lows are returning on Apple Watch SE 2 models f… [+4244 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Chance Miller",
+          "title": "9to5Mac Daily: June 05, 2023 – WWDC recap live from Apple Park",
+          "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by CleanMyMac X: Ch…",
+          "url": "https://9to5mac.com/2023/06/05/9to5mac-daily-june-05-2023-wwdc-recap-live-from-apple-park/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T05:04:17Z",
+          "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+1113 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Zac Hall",
+          "title": "Apple just bought an AR headset startup that wants to push XR tech on workforces ahead of Vision Pro launch",
+          "description": "Need more evidence that Apple is developing a mixed reality headset? Look no further than Apple’s latest acquisition, an augmented reality headset startup. Wait, the headset is official now? That’ll take some getting used to – anyway. The Verge has the scoop.…",
+          "url": "https://9to5mac.com/2023/06/06/mira-reality-vision-pro/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Everything-announced-at-WWDC-2023.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T19:28:05Z",
+          "content": "Need more evidence that Apple is developing a mixed reality headset? Look no further than Apple’s latest acquisition, an augmented reality headset startup. Wait, the headset is official now? That’ll … [+1835 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Chance Miller",
+          "title": "Here’s what it’s like typing with Vision Pro and visionOS",
+          "description": "Following the announcement of Vision Pro at WWDC yesterday, Apple is providing more details about the headset itself and the visionOS software platform in developer sessions. In a session on Tuesday, called “Design for spatial input,” Apple showcased two ways…",
+          "url": "https://9to5mac.com/2023/06/06/heres-what-its-like-typing-with-vision-pro-and-visionos/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/vision-pro-typing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T18:44:56Z",
+          "content": "Following the announcement of Vision Pro at WWDC yesterday, Apple is providing more details about the headset itself and the visionOS software platform in developer sessions. In a session on Tuesday,… [+1744 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Chance Miller",
+          "title": "These are the macOS Sonoma features that aren’t available to Intel Macs",
+          "description": "At WWDC 2023 yesterday, Apple unveiled macOS Sonoma, its latest operating system coming to Mac users later this year. The update is full of new features, but as we’ve come to expect over several years, some of those features are limited to Macs with Apple Sil…",
+          "url": "https://9to5mac.com/2023/06/06/these-are-the-macos-sonoma-features-that-arent-available-to-intel-macs/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/intel-trash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T16:16:46Z",
+          "content": "At WWDC 2023 yesterday, Apple unveiled macOS Sonoma, its latest operating system coming to Mac users later this year. The update is full of new features, but as weve come to expect over several years… [+1749 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Filipe Espósito",
+          "title": "iPadOS 17 adds support for external USB-C webcams and microphones",
+          "description": "With iPadOS 16, Apple introduced the DriverKit API, which, for the first time, lets accessory manufacturers create specific drivers to make their products compatible with the iPad. But iPadOS 17 brings an even more significant improvement. The update adds sup…",
+          "url": "https://9to5mac.com/2023/06/06/ipados-17-external-webcams-microphones/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/iPadOS-17-USB-webcam-mic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T19:01:34Z",
+          "content": "With iPadOS 16, Apple introduced the DriverKit API, which, for the first time, lets accessory manufacturers create specific drivers to make their products compatible with the iPad. But iPadOS 17 brin… [+1774 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Michael Potuck",
+          "title": "Some users without developer accounts still seeing iOS 17 beta, but don’t expect it to last",
+          "description": "In what looks like a bug with the iOS 17 developer beta rollout, some Apple users are seeing access to the software without having paid developer accounts. While you might be able to install the iOS 17 beta too, don’t expect glitch to last.\n more…\nThe post So…",
+          "url": "https://9to5mac.com/2023/06/06/users-without-developer-accounts-seeing-ios-17-beta/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/iOS-17-hero-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T17:34:52Z",
+          "content": "In what looks like a bug with the iOS 17 developer beta rollout, some Apple users are seeing access to the software without having paid developer accounts. While you might be able to install the iOS … [+1604 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Zac Hall",
+          "title": "Apple adds pronoun fields with privacy focus to Contacts app on iOS 17",
+          "description": "iOS 17 and watchOS 10 introduce a new way to easily swap contact information between iPhones, Apple Watches, or both. NameDrop, the new feature in beta now and debuting for everyone this fall, lets you control what information you share over AirDrop without h…",
+          "url": "https://9to5mac.com/2023/06/06/pronouns-ios-17/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/pronouns-ios-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T20:13:53Z",
+          "content": "iOS 17 and watchOS 10 introduce a new way to easily swap contact information between iPhones, Apple Watches, or both. NameDrop, the new feature in beta now and debuting for everyone this fall, lets y… [+1530 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Zac Hall",
+          "title": "Apple’s Back to School promo launches with 15-inch MacBook Air included",
+          "description": "The news was spot on yesterday. One day after the Apple event where new Macs were introduced, the company has kicked off its annual Back to School promotion in the United States. \n more…\nThe post Apple’s Back to School promo launches with 15-inch MacBook Air …",
+          "url": "https://9to5mac.com/2023/06/06/apple-back-to-school-promo/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/back-to-school-2023.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-06-06T16:18:10Z",
+          "content": "The news was spot on yesterday. One day after the Apple event where new Macs were introduced, the company has kicked off its annual Back to School promotion in the United States. \r\nCustomers can shop… [+1248 chars]"
       }
   ]
 }
