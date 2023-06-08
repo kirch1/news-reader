@@ -13,7 +13,7 @@ export const Filters = ({date, category, setDate, setCategory}: FiltersProps) =>
   }
 
   const getCategoryOptions = () => {
-    const categories = ['Sports', 'Technology', 'Programming', 'Robotics'];
+    const categories = ['Sports', 'Gaming', 'Technology', 'Programming', 'Robotics'];
     return categories.map(category => <option value={category}>{category}</option>)
   }
 
