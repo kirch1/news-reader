@@ -1,0 +1,32 @@
+.mini-parent {
+  display: flex;
+  width: 20rem;
+  height: 6.5rem;
+  gap: 1rem;
+  background-color: #1C1C1E;
+  border-radius: 0.5rem;
+  padding: 0.8rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.isSelected {
+  border: 1px solid white;
+}
+
+.mini-parent:hover {
+  border: 1px solid white;
+}
+
+.mini-title {
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  overflow: hidden;
+}
+
+.mini-thumbnail {
+  max-height: 100%;
+  border-radius: 4px;
+}

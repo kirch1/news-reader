@@ -1,0 +1,7 @@
+.articles-selector {
+  display: flex;
+  gap: 1rem;
+  flex-shrink: 0;
+  overflow: auto;
+  padding-bottom: 0.5rem;
+}
