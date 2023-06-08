@@ -3,6 +3,7 @@ import { ArticleDetails } from '../ArticleDetails/ArticleDetails';
 import { ArticleSelector } from '../ArticleSelector/ArticleSelector';
 import { SingleArticle } from '../../interfaces';
 import './App.css';
+import { getArticlesApi } from '../../api';
 
 function App() {
   const [articles, setArticles] = useState<SingleArticle[] | null>(null);
@@ -11,11 +12,7 @@ function App() {
   useEffect(() => {
     const getArticles = async () => {
       try {
-        const response = await fetch('./testdata.json');
-        if(!response.ok) {
-          throw new Error(response.statusText);
-        }
-        const data = await response.json();
+        const data = await getArticlesApi('google');
         setArticles(data.articles);
       }catch(err) {
         console.log(err);
