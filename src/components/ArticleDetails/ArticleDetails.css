@@ -14,11 +14,32 @@
 }
 
 .details-a {
-  width: 60%;
+  width: 600px;
 }
 
 .details-b {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  .article-details {
+    gap: 3rem;
+  }
+  .article-img {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .article-details {
+    flex-direction: column;
+  }
+  .details-a {
+    width: auto;
+  }
+  .article-img {
+    width: 100%;
+  }
 }

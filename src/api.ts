@@ -6,9 +6,9 @@ interface ArticlesReturn {
   articles: SingleArticle[];
 }
 
-export const getArticlesApi = async (topic: string): Promise<ArticlesReturn> => {
-  console.log(process.env.REACT_APP_API_KEY)
-  const endpoint = `https://newsapi.org/v2/everything?q=${topic}&from=2023-06-06&to=2023-06-06&sortBy=popularity&language=en&apiKey=${process.env.REACT_APP_API_KEY}`
+export const getArticlesApi = async (date: string, topic: string): Promise<ArticlesReturn> => {
+  const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+  const endpoint = `https://newsapi.org/v2/everything?q=${topic}&from=${yesterday}&to=${date}&sortBy=popularity&language=en&apiKey=${process.env.REACT_APP_API_KEY}`
   
   const response = await fetch(endpoint);
   
