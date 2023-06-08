@@ -16,7 +16,7 @@ export const ArticleDetails = ({articleDetails}: ArticleDetailsProps) => {
       </div>
       <div className="details-b">
         <ArticleDetailsHeader source={articleDetails.source.name} author={articleDetails.author} date={articleDetails.publishedAt}/>
-        <p>{articleDetails.description}</p>
+        <div dangerouslySetInnerHTML={{__html: articleDetails.description}}></div>
         <p>{articleDetails.content}</p>
         <a href={articleDetails.url}>Read More...</a>
       </div>
