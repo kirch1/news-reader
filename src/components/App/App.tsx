@@ -6,6 +6,7 @@ import './App.css';
 
 function App() {
   const [articles, setArticles] = useState<SingleArticle[] | null>(null);
+  const [selectedArticle, setSelectedArticle] = useState(0);
 
   useEffect(() => {
     const getArticles = async () => {
@@ -28,8 +29,8 @@ function App() {
     <div className="App">
       <h1>News Reader</h1>
       <main>
-        {articles && <ArticleSelector articles={articles}/>}
-        {articles && <ArticleDetails articleDetails={articles[0]}/>}
+        {articles && <ArticleSelector articles={articles} setSelectedArticle={setSelectedArticle}/>}
+        {articles && <ArticleDetails articleDetails={articles[selectedArticle]}/>}
       </main>
     </div>
   );
