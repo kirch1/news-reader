@@ -29,7 +29,7 @@ function App() {
     <div className="App">
       <h1>News Reader</h1>
       <main>
-        {articles && <ArticleSelector articles={articles} setSelectedArticle={setSelectedArticle}/>}
+        {articles && <ArticleSelector articles={articles} setSelectedArticle={setSelectedArticle} selectedArticle={selectedArticle}/>}
         {articles && <ArticleDetails articleDetails={articles[selectedArticle]}/>}
       </main>
     </div>

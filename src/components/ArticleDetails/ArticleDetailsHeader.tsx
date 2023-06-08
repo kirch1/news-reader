@@ -13,7 +13,7 @@ export const ArticleDetailsHeader = ({source, author, date}: ArticleDetailsHeade
         <p className='source'>{source}</p>
         <p>{author}</p>
       </div>
-      <p>{new Date(date).toDateString()}</p>
+      <p className='date'>{new Date(date).toDateString()}</p>
     </div>
   )
 }

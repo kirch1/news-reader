@@ -4,10 +4,11 @@ import './ArticleSelector.css';
 
 interface ArticleSelectorProps {
   articles: SingleArticle[];
-  setSelectedArticle: React.Dispatch<React.SetStateAction<number>>
+  setSelectedArticle: React.Dispatch<React.SetStateAction<number>>;
+  selectedArticle: number;
 }
 
-export const ArticleSelector = ({articles, setSelectedArticle}: ArticleSelectorProps) => {
+export const ArticleSelector = ({articles, setSelectedArticle, selectedArticle}: ArticleSelectorProps) => {
   const getMiniSelectors = () => {
     return articles.map((article, i) => {
       return <ArticleMini 
@@ -15,7 +16,8 @@ export const ArticleSelector = ({articles, setSelectedArticle}: ArticleSelectorP
         id={i}
         title={article.title}
         image={article.urlToImage}
-        setSelectedArticle={setSelectedArticle}/>
+        setSelectedArticle={setSelectedArticle}
+        selectedArticle={selectedArticle}/>
     })
   }
 

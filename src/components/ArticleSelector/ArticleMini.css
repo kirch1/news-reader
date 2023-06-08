@@ -11,6 +11,10 @@
   border: 1px solid transparent;
 }
 
+.isSelected {
+  border: 1px solid white;
+}
+
 .mini-parent:hover {
   border: 1px solid white;
 }
