@@ -3,6 +3,10 @@
 News Reader is a responsive React application use to view articles from [News API](https://newsapi.org/). This project is a take home challenge, with a time frame of no more than 8 hours to completion. Users can select from a list of news catergories and the day they want to see new from. The user can then select from a list of articles to view more details, or visit the original news post.
 ***
 
+### Demo
+![](src/assets/demo.gif)
+***
+
 ### Technologies Used
 - TypeScript
 - React
